@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
