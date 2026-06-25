@@ -1,23 +1,15 @@
 class Solution {
-    public int maxArea(int[] height) {
-        int max_area=Integer.MIN_VALUE;
-        int left=0;
-        int right=height.length-1;
-        while(left<right){
-            int width=right-left;
-
-            int height_of_container=Math.min(height[left],height[right]);
-            int area=width*height_of_container;
-            max_area=Math.max(max_area,area);
-            if(height[left]<height[right]){
-                left++;
+    public int maxProfit(int[] prices) {
+        int buy_day=prices[0];
+        int max_profit=0;
+        for(int i=1;i<prices.length;i++){
+            if(buy_day>prices[i]){
+                buy_day=Math.min(buy_day,prices[i]);
             }
-            else{ 
-                right--;
+            else{
+                max_profit=Math.max(max_profit,prices[i]-buy_day);
             }
-           
-           
         }
-    return max_area;
-  }
+        return max_profit;
+    }
 }
