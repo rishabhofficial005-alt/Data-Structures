@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
+| [1572-matrix-diagonal-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0073-set-matrix-zeroes) |
+| [1572-matrix-diagonal-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
