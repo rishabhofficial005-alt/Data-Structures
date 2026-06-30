@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
