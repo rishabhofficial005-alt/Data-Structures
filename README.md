@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
