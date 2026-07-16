@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
