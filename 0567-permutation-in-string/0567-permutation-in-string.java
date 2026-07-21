@@ -1,48 +1,36 @@
 class Solution {
-
-    public boolean checkPermutation(int[] freq, int[] windFreq) {
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] != windFreq[i]) {
+    private boolean Permutation(int []freq, int[] window_freq){
+        for(int i=0;i<26;i++){
+            if(freq[i]!=window_freq[i]){
                 return false;
             }
         }
         return true;
     }
-
     public boolean checkInclusion(String s1, String s2) {
-
-        if (s1.length() > s2.length()) {
-            return false;
+        int freq1[]=new int[26];
+        for(int i=0;i<s1.length();i++){
+            freq1[s1.charAt(i)-'a']++;
         }
-
-        int[] freq = new int[26];
-
-        // Frequency of s1
-        for (int i = 0; i < s1.length(); i++) {
-            freq[s1.charAt(i) - 'a']++;
-        }
-
-        int windowSize = s1.length();
-
-        // Check every window of size windowSize
-        for (int i = 0; i <= s2.length() - windowSize; i++) {
-
-            int[] windFreq = new int[26];
-
-            int windowIndex = 0;
-            int index = i;
-
-            while (windowIndex < windowSize) {
-                windFreq[s2.charAt(index) - 'a']++;
-                windowIndex++;
+       
+        int window_length=s1.length();
+        for(int i=0;i<s2.length();i++){
+            int window_index=0;
+            int index=i;
+            int windowfreq1[]=new int[26];
+            while(index<s2.length() && window_index<window_length){
+                windowfreq1[s2.charAt(index)-'a']++;
+                window_index++;
                 index++;
             }
-
-            if (checkPermutation(freq, windFreq)) {
+            if(Permutation(freq1, windowfreq1)){
                 return true;
             }
         }
+        
+         return false;
+         
 
-        return false;
+        }
+       
     }
-}
