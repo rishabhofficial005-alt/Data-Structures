@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
