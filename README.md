@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
